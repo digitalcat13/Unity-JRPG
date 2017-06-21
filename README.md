@@ -8,3 +8,10 @@ I made this project because i was curious about Unity. I thought this is the rig
 This is a pokemon / jrpg like game. I made this using unity with several plugins such as Fungus (for dialogue) and Standard Unity Asset Store (for camera and character movement). I also added turn based combat, pretty much using scripts, and for skillset for both player and enemy can be added just by duplicating existing script. For the character movement animation, i used the animator and animation tools in Unity, i spliced the Character Spritesheet and i put them in animation for each direction and incorporated it with the movement script on animator tools.
 
 For more details you can check out the screenshots that i took.
+
+![Alt text](https://github.com/digitalcat13/Unity-JRPG/blob/master/1.jpg)
+![Alt text](https://github.com/digitalcat13/Unity-JRPG/blob/master/2.jpg)
+![Alt text](https://github.com/digitalcat13/Unity-JRPG/blob/master/3.jpg)
+![Alt text](https://github.com/digitalcat13/Unity-JRPG/blob/master/4.jpg)
+![Alt text](https://github.com/digitalcat13/Unity-JRPG/blob/master/5.jpg)
+![Alt text](https://github.com/digitalcat13/Unity-JRPG/blob/master/6.jpg)
